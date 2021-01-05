@@ -22,7 +22,10 @@
     "url": "https://github.com/mikeyjwilliams/landing_page_case_study/issues"
   },
   "homepage": "https://github.com/mikeyjwilliams/landing_page_case_study#readme",
-  "dependencies": {},
+  "dependencies": {
+    "autoprefixer": "^10.1.0",
+    "postcss-modules": "^4.0.0"
+  },
   "devDependencies": {
     "parcel-bundler": "^1.12.4",
     "sass": "^1.32.0"
