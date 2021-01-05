@@ -1,0 +1,30 @@
+{
+  "name": "landing_page_case_study",
+  "version": "0.0.1",
+  "description": "Landing page for Michael Williams web site.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html",
+    "watch": "parcel watch index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikeyjwilliams/landing_page_case_study.git"
+  },
+  "keywords": [
+    "Landing Page",
+    "Home page"
+  ],
+  "author": "Michael Williams",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikeyjwilliams/landing_page_case_study/issues"
+  },
+  "homepage": "https://github.com/mikeyjwilliams/landing_page_case_study#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "sass": "^1.32.0"
+  }
+}
